@@ -1,0 +1,5 @@
+2023/01/31-19:55:56.824 2e0c Reusing MANIFEST D:/github.com/Slash/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/31-20:07:04.218 3088 Level-0 table #5: started
+2023/01/31-20:07:04.293 3088 Level-0 table #5: 6936 bytes OK
+2023/01/31-20:07:04.335 3088 Delete type=0 #3
+2023/01/31-20:07:04.335 3088 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
